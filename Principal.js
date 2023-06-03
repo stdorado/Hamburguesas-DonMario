@@ -4,37 +4,37 @@
 let productos = `[
   {
     "nombre": "ParoCardiaco",
-    "imagen": "",
+    "imagen": "../image/Burguer-2.png",
     "precio": 2200,
     "ingredientes": "Medallón de Carne, Lechuga, Tomate, Triple Cheddar y Huevo"
   },
   {
     "nombre": "Titan",
-    "imagen": "",
+    "imagen": "../image/Burguer-2.png",
     "precio": 2600,
     "ingredientes": "Medallón de Carne, Lechuga, Tomate, Triple Cheddar y Huevo"
   },
   {
     "nombre": "MacDorado",
-    "imagen": "",
+    "imagen": "../image/Burguer-2.png",
     "precio": 2800,
     "ingredientes": "Medallón de Carne, Lechuga, Tomate, Triple Cheddar y Huevo"
   },
   {
     "nombre": "UltimoVuelo",
-    "imagen": "",
+    "imagen": "../image/Burguer-2.png",
     "precio": 3000,
     "ingredientes": "Medallón de Carne, Lechuga, Tomate, Triple Cheddar y Huevo"
   },
   {
     "nombre": "MacNifica",
-    "imagen": "",
+    "imagen": "../image/Burguer-2.png",
     "precio": 3000,
     "ingredientes": "Medallón de Carne, Lechuga, Tomate, Triple Cheddar y Huevo"
   },
   {
     "nombre": "TurboCheddar",
-    "imagen": "",
+    "imagen": "../image/Burguer-2.png",
     "precio": 3000,
     "ingredientes": "Medallón de Carne, Lechuga, Tomate, Triple Cheddar y Huevo"
   }
